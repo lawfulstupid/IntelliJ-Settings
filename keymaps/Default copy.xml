@@ -40,6 +40,9 @@
   <action id="ActivateVersionControlToolWindow">
     <keyboard-shortcut first-keystroke="alt 2" />
   </action>
+  <action id="Annotate">
+    <keyboard-shortcut first-keystroke="ctrl number_sign" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
