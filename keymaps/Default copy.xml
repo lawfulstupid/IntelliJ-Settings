@@ -43,6 +43,9 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -59,6 +62,8 @@
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.SetDefault" />
   <action id="DecrementWindowHeight" />
+  <action id="Diff.NextChange" />
+  <action id="Diff.PrevChange" />
   <action id="Diff.ShowSettingsPopup" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
@@ -74,6 +79,9 @@
   </action>
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
   </action>
   <action id="GotoBookmark0" />
   <action id="GuiDesigner.QuickJavadoc">
@@ -93,9 +101,11 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="NextTab" />
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
