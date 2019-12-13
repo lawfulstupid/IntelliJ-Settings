@@ -25,6 +25,7 @@
     </pattern>
     <pattern pattern="\bPP-(2[67][56]|264|301)\b.?" />
     <pattern pattern="\bdebug\b.?" />
+    <pattern pattern="\bASB\b.?" />
     <filter name="TODO">
       <pattern index="1" />
       <pattern index="0" />
@@ -34,6 +35,7 @@
     </filter>
     <filter name="My Tickets">
       <pattern index="5" />
+      <pattern index="7" />
     </filter>
   </component>
 </application>
