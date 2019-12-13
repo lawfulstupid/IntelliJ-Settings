@@ -1,10 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="85:0;78:0;73:0;79:0;78:0">union</typing>
+      <typing text-keycode="70:0;73:0;78:0;65:0;76:0;32:0">final&amp;#x20;</typing>
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
+      <action id="EditorLeft" />
       <action id="EditorDown" />
+      <action id="EditorLeft" />
     </macro>
   </component>
 </application>
