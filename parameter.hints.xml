@@ -9,5 +9,6 @@
       <blacklist language="Groovy" />
       <blacklist language="Kotlin" />
     </blacklists>
+    <option id="sql.show.column.names.in.select" value="true" />
   </component>
 </application>
