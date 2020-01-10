@@ -1,3 +1,16 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
+  <MySQLCodeStyleSettings version="2">
+    <option name="QUERY_ALIGN_ELEMENTS" value="false" />
+    <option name="INSERT_CONTENT" value="2" />
+    <option name="INSERT_CLOSING" value="3" />
+    <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="3" />
+  </MySQLCodeStyleSettings>
+  <codeStyleSettings language="MySQL">
+    <indentOptions>
+      <option name="INDENT_SIZE" value="3" />
+      <option name="CONTINUATION_INDENT_SIZE" value="6" />
+      <option name="TAB_SIZE" value="3" />
+    </indentOptions>
+  </codeStyleSettings>
 </code_scheme>
