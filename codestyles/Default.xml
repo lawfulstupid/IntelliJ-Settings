@@ -1,9 +1,12 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <MySQLCodeStyleSettings version="2">
+    <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="8" />
+    <option name="QUERY_EL_LINE" value="0" />
     <option name="QUERY_ALIGN_ELEMENTS" value="false" />
-    <option name="INSERT_CONTENT" value="2" />
-    <option name="INSERT_CLOSING" value="3" />
+    <option name="INSERT_EL_WRAP" value="2" />
+    <option name="INSERT_EL_COMMA" value="2" />
+    <option name="SET_ALIGN_EQUAL_SIGN" value="false" />
     <option name="IMP_COMMON_KEEP_BLANK_LINES_IN_CODE" value="3" />
   </MySQLCodeStyleSettings>
   <codeStyleSettings language="MySQL">
