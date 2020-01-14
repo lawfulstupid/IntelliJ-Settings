@@ -30,11 +30,5 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:33306/pace</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="PROD" uuid="ab467b44-a662-4ade-9bf3-9deb8d0ec6f4">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:13306/pace</jdbc-url>
-    </data-source>
   </component>
 </application>
