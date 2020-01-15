@@ -113,7 +113,6 @@
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Replace">
-    <keyboard-shortcut first-keystroke="ctrl r" />
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResetColumnsWidth" />
@@ -122,6 +121,10 @@
   <action id="ShowRecentTests" />
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl q" />
+  </action>
+  <action id="Synchronize">
+    <keyboard-shortcut first-keystroke="ctrl alt y" />
+    <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
   <action id="TagDocumentationNavigation" />
   <action id="TypeHierarchy" />
