@@ -1,11 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="~Personal Changes" />
-    <option name="defaultScopeName" value="~Personal Changes" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="~Personal Changes" />
-    <option name="FILE_MASK" value="*.yaml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.html</mask>
