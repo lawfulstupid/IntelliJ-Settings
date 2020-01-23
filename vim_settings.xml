@@ -3,7 +3,7 @@
     <option name="enabled" value="false" />
   </component>
   <component name="VimSettings">
-    <state version="5" enabled="false" />
+    <state version="5" enabled="true" />
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
