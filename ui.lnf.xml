@@ -7,6 +7,7 @@
     <option name="MAX_LOOKUP_WIDTH2" value="1086" />
     <option name="OPEN_TABS_AT_THE_END" value="true" />
     <option name="OVERRIDE_NONIDEA_LAF_FONTS" value="true" />
+    <option name="SHOW_CLOSE_BUTTON" value="false" />
     <option name="SHOW_DIRECTORY_FOR_NON_UNIQUE_FILENAMES" value="false" />
     <option name="SHOW_MEMORY_INDICATOR" value="true" />
     <option name="WIDESCREEN_SUPPORT" value="true" />

@@ -50,6 +50,9 @@
     <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="CallHierarchy" />
+  <action id="CloseEditor">
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -87,10 +90,14 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
     <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
+  <action id="GotoAction" />
   <action id="GotoBookmark0" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
