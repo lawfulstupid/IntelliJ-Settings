@@ -9,14 +9,9 @@
     <data-source source="LOCAL" name="LOCAL" uuid="ccc358ac-378a-48ee-8a63-caa0e5676a0e">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
+      <auto-commit>false</auto-commit>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/pace</jdbc-url>
-    </data-source>
-    <data-source source="LOCAL" name="PROD-COPY" read-only="true" uuid="8d46591f-c4e8-4f33-8e94-a72e04100413">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:13306/pace</jdbc-url>
     </data-source>
     <data-source source="LOCAL" name="UAT" uuid="5f13453d-fe7d-42c2-a140-cc64b04a3412">
       <driver-ref>mysql.8</driver-ref>
@@ -29,6 +24,15 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:33306/pace</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD" read-only="true" uuid="de092099-c390-4952-9841-20eb2b9c1874">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:13306/pace</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT" />
+      </driver-properties>
     </data-source>
   </component>
 </application>
