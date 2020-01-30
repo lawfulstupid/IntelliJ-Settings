@@ -12,7 +12,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/pace</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="PROD-COPY" uuid="8d46591f-c4e8-4f33-8e94-a72e04100413">
+    <data-source source="LOCAL" name="PROD-COPY" read-only="true" uuid="8d46591f-c4e8-4f33-8e94-a72e04100413">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
