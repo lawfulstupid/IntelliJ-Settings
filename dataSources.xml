@@ -9,7 +9,6 @@
     <data-source source="LOCAL" name="LOCAL" uuid="ccc358ac-378a-48ee-8a63-caa0e5676a0e">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
-      <auto-commit>false</auto-commit>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/pace</jdbc-url>
     </data-source>
