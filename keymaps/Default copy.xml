@@ -66,6 +66,7 @@
   <action id="Compare.LastVersion">
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
+  <action id="Console.TableResult.AddColumn" />
   <action id="Console.TableResult.CompareCells" />
   <action id="Console.TableResult.SetDefault" />
   <action id="DecrementWindowHeight" />
@@ -90,8 +91,15 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="EditorSelectLine">
+    <keyboard-shortcut first-keystroke="shift alt a" />
+  </action>
   <action id="EditorSelectWord">
     <keyboard-shortcut first-keystroke="shift ctrl a" />
+  </action>
+  <action id="EditorToggleColumnMode" />
+  <action id="EditorToggleStickySelection">
+    <keyboard-shortcut first-keystroke="shift alt insert" />
   </action>
   <action id="Forward">
     <keyboard-shortcut first-keystroke="alt right" />
@@ -153,9 +161,11 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.Log.ShowAllAffected" />
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
+  <action id="VcsHistory.ShowAllAffected" />
   <action id="VimActions">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
