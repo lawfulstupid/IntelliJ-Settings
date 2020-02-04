@@ -17,7 +17,7 @@
   <component name="SqlEditorOptions">
     <option name="aliasQualification" value="Always" />
     <option name="namespaceQualification" value="Never" />
-    <option name="tableQualification" value="Always" />
+    <option name="tableQualification" value="Never" />
   </component>
   <component name="TodoConfiguration">
     <multiLine>false</multiLine>
