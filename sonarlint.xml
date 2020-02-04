@@ -7,6 +7,7 @@
         <option value="Web:S5264" />
         <option value="Web:TableWithoutCaptionCheck" />
         <option value="squid:CommentedOutCodeLine" />
+        <option value="squid:HiddenFieldCheck" />
         <option value="squid:S00107" />
         <option value="squid:S00115" />
         <option value="squid:S00120" />
