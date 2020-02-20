@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '...\pace-av-api\src\test\java\com\entitygroup\halfordspace\controller\BookingApiControllerTest.java [pace-av-api]'" />
+    <option name="defaultScopeName" value="File '...\pace-av-api\src\test\java\com\entitygroup\halfordspace\controller\BookingApiControllerTest.java [pace-av-api]'" />
+    <option name="SEARCH_SCOPE" value="File '...\pace-av-api\src\test\java\com\entitygroup\halfordspace\controller\BookingApiControllerTest.java [pace-av-api]'" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
