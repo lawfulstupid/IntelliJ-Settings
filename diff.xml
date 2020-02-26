@@ -3,7 +3,8 @@
     <option name="PLACES_MAP">
       <entry key="Default">
         <PlaceSettings>
-          <option name="SPLITTER_PROPORTION" value="0.8313008" />
+          <option name="HIDE_PROPERTIES" value="true" />
+          <option name="SPLITTER_PROPORTION" value="0.847561" />
         </PlaceSettings>
       </entry>
     </option>
