@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="File '...\pace-app-ui\src\app\pace\content\diary\navigatorcommon\actionladder\measurementrung\measurementrung.component.ts [pace-parent]'" />
+    <option name="defaultScopeName" value="File '...\pace-app-ui\src\app\pace\content\diary\navigatorcommon\actionladder\measurementrung\measurementrung.component.ts [pace-parent]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="SEARCH_SCOPE" value="File '...\pace-app-ui\src\app\pace\content\diary\navigatorcommon\actionladder\measurementrung\measurementrung.component.ts [pace-parent]'" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.xml</mask>
