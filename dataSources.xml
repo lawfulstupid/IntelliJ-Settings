@@ -33,11 +33,5 @@
         <property name="serverTimezone" value="GMT" />
       </driver-properties>
     </data-source>
-    <data-source source="LOCAL" name="BRANCH" uuid="1833376f-1f0c-4eba-a4b4-9f56ead2e927">
-      <driver-ref>mysql.8</driver-ref>
-      <synchronize>true</synchronize>
-      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/pace2</jdbc-url>
-    </data-source>
   </component>
 </application>
