@@ -4,22 +4,14 @@
       <action id="EditorLineStart" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorCopy" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="32:0;78:0;69:0;87:0;32:0;83:1;69:0;82:0;86:0;73:0;67:0;69:0;77:1;65:0;84:0;82:0;73:0;88:0;67:1;69:0;76:0;76:0;57:1">&amp;#x20;new&amp;#x20;ServiceMatrixCell(</typing>
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
       <action id="EditorLineEnd" />
       <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorPaste" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorLeft" />
-      <action id="EditorDeleteToWordStart" />
-      <action id="EditorPaste" />
-      <action id="EditorPreviousWord" />
-      <typing text-keycode="83:0;69:0;84:0">set</typing>
-      <action id="EditorEscape" />
-      <action id="EditorRightWithSelection" />
-      <action id="osmedile.intellij.stringmanip.ToUpperCaseAction" />
+      <typing text-keycode="48:1">)</typing>
       <action id="EditorDown" />
     </macro>
   </component>
