@@ -3,15 +3,14 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;78:0;69:0;87:0;32:0;83:1;69:0;82:0;86:0;73:0;67:0;69:0;77:1;65:0;84:0;82:0;73:0;88:0;67:1;69:0;76:0;76:0;57:1">&amp;#x20;new&amp;#x20;ServiceMatrixCell(</typing>
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
+      <action id="EditorRight" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCopy" />
       <action id="EditorLineEnd" />
       <action id="EditorLeft" />
-      <typing text-keycode="48:1">)</typing>
+      <typing text-keycode="32:0;61:0;32:0;77:0;79:0;67:0;75:0;57:1">&amp;#x20;=&amp;#x20;mock(</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="46:0;67:0;76:0;65:0;83:0;83:0">.class</typing>
       <action id="EditorDown" />
     </macro>
   </component>
