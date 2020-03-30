@@ -11,6 +11,9 @@
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:3306/pace</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT" />
+      </driver-properties>
     </data-source>
     <data-source source="LOCAL" name="UAT" uuid="5f13453d-fe7d-42c2-a140-cc64b04a3412">
       <driver-ref>mysql.8</driver-ref>
