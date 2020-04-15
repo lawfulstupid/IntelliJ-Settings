@@ -2,8 +2,16 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <typing text-keycode="80:0;82:0;73:0;86:0;65:0;84:0;69:0;32:0;70:0;73:0;78:0;65:0;76:0;32:0">private&amp;#x20;final&amp;#x20;</typing>
-      <action id="EditorUp" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDelete" />
+      <action id="EditorDown" />
     </macro>
   </component>
 </application>
