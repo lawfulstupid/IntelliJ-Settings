@@ -2,8 +2,10 @@
   <component name="RelativeLineNumbersSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="VimSettings">
-    <state version="5" enabled="false" />
+  <component name="VimEditorSettings">
+    <editor />
+  </component>
+  <component name="VimKeySettings">
     <shortcut-conflicts>
       <shortcut-conflict owner="ide">
         <text>ctrl pressed BACK_SLASH</text>
@@ -39,7 +41,9 @@
         <text>shift ctrl pressed SEMICOLON</text>
       </shortcut-conflict>
     </shortcut-conflicts>
-    <editor />
+  </component>
+  <component name="VimSettings">
+    <state version="6" enabled="false" />
     <notifications>
       <idea-join enabled="false" />
       <idea-put enabled="false" />
