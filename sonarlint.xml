@@ -8,6 +8,7 @@
         <option value="Web:TableWithoutCaptionCheck" />
         <option value="java:S1128" />
         <option value="java:S1149" />
+        <option value="java:S2119" />
         <option value="java:S4144" />
         <option value="squid:CommentedOutCodeLine" />
         <option value="squid:HiddenFieldCheck" />
