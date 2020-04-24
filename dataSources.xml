@@ -27,7 +27,7 @@
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
       <jdbc-url>jdbc:mysql://localhost:33306/pace</jdbc-url>
     </data-source>
-    <data-source source="LOCAL" name="PROD" uuid="de092099-c390-4952-9841-20eb2b9c1874">
+    <data-source source="LOCAL" name="PROD" read-only="true" uuid="de092099-c390-4952-9841-20eb2b9c1874">
       <driver-ref>mysql.8</driver-ref>
       <synchronize>true</synchronize>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
