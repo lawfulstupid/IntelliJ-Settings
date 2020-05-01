@@ -1,20 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="selection" />
-    <option name="defaultScopeName" value="selection" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="selection" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yaml" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.html</mask>
-    <mask>*.yaml</mask>
     <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.yaml</mask>
   </component>
 </application>
