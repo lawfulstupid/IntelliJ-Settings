@@ -1,10 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <typing text-keycode="222:0">'</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="222:0">'</typing>
+      <typing text-keycode="44:0">,</typing>
       <action id="EditorDown" />
     </macro>
   </component>
