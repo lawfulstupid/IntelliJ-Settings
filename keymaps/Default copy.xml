@@ -157,6 +157,9 @@
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
+  <action id="StructuralSearchPlugin.StructuralSearchAction">
+    <keyboard-shortcut first-keystroke="alt f" />
+  </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
     <keyboard-shortcut first-keystroke="ctrl r" />
