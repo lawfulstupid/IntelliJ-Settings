@@ -111,6 +111,8 @@
   <action id="Images.Editor.ToggleGrid" />
   <action id="Images.Thumbnails.ToggleRecursive" />
   <action id="IncrementWindowHeight" />
+  <action id="IntroduceField" />
+  <action id="IntroduceProperty" />
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -153,12 +155,13 @@
     <keyboard-shortcut first-keystroke="ctrl alt e" />
   </action>
   <action id="ServiceView.ShowServices" />
+  <action id="ShowFilterPopup" />
   <action id="ShowRecentTests" />
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="StructuralSearchPlugin.StructuralSearchAction">
-    <keyboard-shortcut first-keystroke="alt f" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="Synchronize">
     <keyboard-shortcut first-keystroke="ctrl alt y" />
