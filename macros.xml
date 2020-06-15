@@ -1,14 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorMatchBrace" />
-      <action id="EditorMatchBrace" />
-      <action id="EditorLeft" />
-      <typing text-keycode="45:0;45:0">--</typing>
-      <action id="EditorMatchBrace" />
-      <action id="EditorRight" />
-      <typing text-keycode="49:1;45:0;45:0">!--</typing>
       <action id="EditorNextWord" />
+      <action id="EditorDelete" />
+      <action id="EditorEnter" />
+      <action id="EditorBackSpace" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
