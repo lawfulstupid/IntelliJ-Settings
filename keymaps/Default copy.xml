@@ -137,7 +137,6 @@
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
-  <action id="PopupHector" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -175,9 +174,6 @@
   <action id="Uml.ShowDiff" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
-  <action id="Vcs.ShowHistoryForBlock">
-    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
-  </action>
   <action id="Vcs.ShowTabbedFileHistory">
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
