@@ -113,6 +113,12 @@
   <action id="IncrementWindowHeight" />
   <action id="IntroduceField" />
   <action id="IntroduceProperty" />
+  <action id="LocalHistory.ShowHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
+  <action id="LocalHistory.ShowSelectionHistory">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
   <action id="ManageRecentProjects">
     <keyboard-shortcut first-keystroke="shift ctrl o" />
   </action>
@@ -137,6 +143,7 @@
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="PopupHector" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -174,9 +181,6 @@
   <action id="Uml.ShowDiff" />
   <action id="UpdateRunningApplication" />
   <action id="Vcs.Log.ShowAllAffected" />
-  <action id="Vcs.ShowTabbedFileHistory">
-    <keyboard-shortcut first-keystroke="ctrl alt h" />
-  </action>
   <action id="VcsHistory.ShowAllAffected" />
   <action id="VimActions">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
