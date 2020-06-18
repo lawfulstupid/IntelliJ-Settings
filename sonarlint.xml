@@ -2,6 +2,7 @@
   <component name="SonarLintGlobalSettings">
     <rules>
       <Rule active="false" key="squid:CommentedOutCodeLine" />
+      <Rule active="false" key="java:S1133" />
       <Rule active="false" key="java:S1155" />
       <Rule active="false" key="squid:S1854" />
       <Rule active="false" key="Web:ImgWithoutAltCheck" />
@@ -23,6 +24,7 @@
       <Rule active="false" key="squid:S1192" />
       <Rule active="false" key="java:S1149" />
       <Rule active="false" key="java:S2119" />
+      <Rule active="false" key="java:S1123" />
       <Rule active="false" key="squid:S1700" />
       <Rule active="false" key="squid:S1186" />
       <Rule active="false" key="squid:S00115" />
