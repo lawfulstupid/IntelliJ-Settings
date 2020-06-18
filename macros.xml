@@ -2,23 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="EditorLineEnd" />
-      <action id="EditorEnter" />
-      <typing text-keycode="67:0;79:0;78:0;83:0;79:0;76:0;69:0;46:0;76:0;79:0;71:0;57:1;222:0">console.log('</typing>
-      <action id="EditorPaste" />
-      <action id="EditorLineEnd" />
-      <typing text-keycode="59:0">;</typing>
-      <action id="EditorLineStart" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="77:1;69:1;84:1;72:1;79:1;68:1;59:1;32:0">METHOD:&amp;#x20;</typing>
-      <action id="EditorUp" />
-      <action id="EditorLineEnd" />
+      <typing text-keycode="32:0;70:0;73:0;78:0;65:0;76:0">&amp;#x20;final</typing>
+      <action id="EditorDown" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
