@@ -2,14 +2,20 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
       <action id="EditorDelete" />
       <action id="EditorNextWord" />
+      <typing text-keycode="45:1;65:1;87:1;73:1">_AWI</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
       <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="45:1;65:1;87:1;73:1">_AWI</typing>
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
