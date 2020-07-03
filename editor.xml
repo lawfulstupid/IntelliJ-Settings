@@ -30,18 +30,16 @@
       <option name="FONT_TYPE" value="3" />
       <option name="EFFECT_COLOR" value="3c3f41" />
     </pattern>
-    <pattern pattern="\bPP-(2[67][56]|264|301)\b.?" />
     <pattern pattern="\bdebug\b.?" />
     <pattern pattern="\bASB\b.?" />
+    <pattern pattern="\bHP-2880\b" />
     <filter name="TODO">
       <pattern index="1" />
+      <pattern index="6" />
       <pattern index="0" />
     </filter>
-    <filter name="DEBUG">
-      <pattern index="6" />
-    </filter>
     <filter name="My Tickets">
-      <pattern index="5" />
+      <pattern index="6" />
       <pattern index="7" />
     </filter>
   </component>
