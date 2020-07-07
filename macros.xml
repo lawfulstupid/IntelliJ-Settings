@@ -1,8 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <typing text-keycode="80:0;82:0;73:0;86:0;65:0;84:0;69:0;32:0">private&amp;#x20;</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <typing text-keycode="46:0;48:0">.0</typing>
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
