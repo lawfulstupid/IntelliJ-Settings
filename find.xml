@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
@@ -15,10 +15,10 @@
     <mask>*.yaml</mask>
     <mask>*.properties</mask>
     <mask>*.p*</mask>
-    <mask>*.xml</mask>
     <mask>*.component.html</mask>
     <mask>*.ts</mask>
     <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
