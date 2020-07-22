@@ -32,7 +32,7 @@
     </pattern>
     <pattern pattern="\bdebug\b.?" />
     <pattern pattern="\bASB\b.?" />
-    <pattern pattern="\bHP-(2880|2882|2886)\b" />
+    <pattern pattern="\bHP-(2897|2880|2882|2886|2962)\b" />
     <filter name="TODO">
       <pattern index="1" />
       <pattern index="6" />
