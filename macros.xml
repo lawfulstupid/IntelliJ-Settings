@@ -1,18 +1,44 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorCopy" />
-      <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <typing text-keycode="32:0;61:0;32:0;77:0;79:0;67:0;75:0;57:1">&amp;#x20;=&amp;#x20;mock(</typing>
-      <action id="EditorPaste" />
-      <typing text-keycode="46:0;67:0;76:0;65:0;83:0;83:0;48:1">.class)</typing>
       <action id="EditorDown" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorUpWithSelection" />
+      <action id="EditorLeftWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorPaste" />
+      <action id="EditorPaste" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorLeft" />
+      <typing text-keycode="65:1;78:0;68:0;70:1;76:0;69:0;69:0;84:0;67:1;85:0;83:0;84:0;79:0;77:0;69:0;82:0">AndFleetCustomer</typing>
+      <action id="EditorEscape" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
+      <action id="EditorLineEnd" />
+      <action id="EditorEnter" />
+      <typing text-keycode="61:1;32:1;50:1;74:1;79:1;73:1;78:1;32:1;67:1;85:0;83:0;84:0;79:0;77:0;69:0;82:0;32:0;67:0;32:0;79:0;78:0;32:0;67:0;46:0;73:0;68:0;32:0;61:0;32:0;65:0;46:0;70:0;76:0;69:0;69:0;84:0;67:1;85:0;83:0;84:0;79:0;77:0;69:0;82:0;73:1;68:0;32:0">+&amp;#x20;&quot;JOIN&amp;#x20;Customer&amp;#x20;c&amp;#x20;on&amp;#x20;c.id&amp;#x20;=&amp;#x20;a.fleetCustomerId&amp;#x20;</typing>
+      <action id="EditorDown" />
+      <action id="EditorEnter" />
+      <typing text-keycode="61:1;32:1;50:1;65:1;78:1;68:1;32:1;67:0;46:0;65:0;87:0;73:0;70:1;76:0;69:0;69:0;84:0;67:1;85:0;83:0;84:0;79:0;77:0;69:0;82:0;32:0;61:0;32:0;84:0;82:0;85:0;73:0;69:0">+&amp;#x20;&quot;AND&amp;#x20;c.awiFleetCustomer&amp;#x20;=&amp;#x20;truie</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="69:0;32:0">e&amp;#x20;</typing>
+      <action id="EditorUp" />
+      <action id="EditorLineStart" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDeleteToWordEnd" />
+      <typing text-keycode="87:1;72:1;69:1;82:1;69:1">WHERE</typing>
+      <action id="EditorEscape" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
