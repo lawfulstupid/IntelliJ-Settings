@@ -1,20 +1,6 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;82:0;69:0;80:0;76:0;65:0;67:0;69:0;57:1">&amp;#x20;replace(</typing>
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorLineEnd" />
-      <typing text-keycode="44:0;32:0;222:0;222:0;44:0;32:0;222:0;88:1;222:0;48:1">,&amp;#x20;'',&amp;#x20;'X')</typing>
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-      <action id="EditorPreviousWord" />
-    </macro>
+    <macro name="&lt;noname&gt;" />
     <macro name="column to list">
       <action id="EditorLineEnd" />
       <typing text-keycode="44:0">,</typing>
