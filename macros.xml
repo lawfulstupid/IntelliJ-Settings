@@ -2,8 +2,17 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <action id="EditorDeleteToWordEnd" />
-      <typing text-keycode="84:0;65:0;82:0;71:0;69:0;84:0">target</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorDelete" />
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
