@@ -1,19 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
+      <action id="EditorNextWord" />
+      <action id="EditorLeft" />
+      <action id="EditorPreviousWordWithSelection" />
+      <typing text-keycode="83:0;76:0;79:0;84:0">slot</typing>
+      <action id="EditorEscape" />
       <action id="EditorNextWord" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorDelete" />
-      <action id="EditorDown" />
+      <action id="EditorRight" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
