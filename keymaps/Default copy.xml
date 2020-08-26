@@ -182,6 +182,14 @@
     <keyboard-shortcut first-keystroke="ctrl alt h" />
   </action>
   <action id="VcsHistory.ShowAllAffected" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+    <keyboard-shortcut first-keystroke="f7" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
+    <keyboard-shortcut first-keystroke="shift f7" />
+  </action>
   <action id="VimActions">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
   </action>
