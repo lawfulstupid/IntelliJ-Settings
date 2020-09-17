@@ -2,25 +2,23 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
+      <action id="EditorPreviousWord" />
       <action id="EditorLineStart" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
       <action id="EditorNextWordWithSelection" />
-      <action id="EditorCut" />
-      <typing text-keycode="65:0;83:0;83:0;69:0;82:0;84:0;84:1;72:0;65:0;84:0">assertThat</typing>
-      <action id="EditorRight" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDelete" />
+      <action id="EditorCopy" />
+      <action id="EditorLeft" />
+      <typing text-keycode="80:0;82:0;73:0;86:0;65:0;84:0;69:0;32:0;70:0;73:0;78:0;65:0;76:0;32:0">private&amp;#x20;final&amp;#x20;</typing>
+      <action id="EditorUp" />
+      <action id="EditorDeleteLine" />
+      <action id="EditorDown" />
+      <action id="EditorUp" />
       <action id="EditorLineEnd" />
       <action id="EditorLeft" />
-      <typing text-keycode="46:0;73:0;83:0">.is</typing>
+      <typing text-keycode="32:0;61:0;32:0;77:0;79:0;67:0;75:0;57:1">&amp;#x20;=&amp;#x20;mock(</typing>
       <action id="EditorPaste" />
-      <typing text-keycode="57:1;48:1">()</typing>
+      <typing text-keycode="46:0;67:0;76:0;65:0;83:0;83:0;48:1">.class)</typing>
+      <action id="EditorDown" />
+      <action id="EditorDown" />
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
