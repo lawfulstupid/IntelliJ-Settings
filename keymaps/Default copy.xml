@@ -65,6 +65,8 @@
   <action id="Console.History.Browse" />
   <action id="Console.TableResult.AddColumn" />
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.SetDefault" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.NextChange" />
@@ -129,6 +131,7 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="NextOccurence" />
   <action id="NextTab" />
   <action id="PerforceDirect.Edit" />
   <action id="PlaySavedMacrosAction">
@@ -138,6 +141,7 @@
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
   <action id="PopupHector" />
+  <action id="PreviousOccurence" />
   <action id="PreviousTab" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -183,12 +187,10 @@
   </action>
   <action id="VcsHistory.ShowAllAffected" />
   <action id="VcsShowNextChangeMarker">
-    <keyboard-shortcut first-keystroke="shift ctrl alt down" />
-    <keyboard-shortcut first-keystroke="f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
   <action id="VcsShowPrevChangeMarker">
-    <keyboard-shortcut first-keystroke="shift ctrl alt up" />
-    <keyboard-shortcut first-keystroke="shift f7" />
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="VimActions">
     <keyboard-shortcut first-keystroke="shift ctrl semicolon" />
