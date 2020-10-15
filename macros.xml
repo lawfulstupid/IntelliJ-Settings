@@ -1,12 +1,15 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPreviousWord" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <typing text-keycode="73:0;68:0;80:1;82:0;69:0;70:0;73:0;88:0;32:0;61:1;32:1;73:0;68:0;88:0">idPrefix&amp;#x20;+&amp;#x20;idx</typing>
+      <action id="EditorLineStart" />
+      <typing text-keycode="57:1;222:0;83:1;69:1;82:1;86:1;73:1;67:1;69:1;222:0;44:0;32:0;222:0">('SERVICE',&amp;#x20;'</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="222:0;44:0;32:0;84:0;82:0;85:0;69:0;48:1;44:0">',&amp;#x20;true),</typing>
+      <action id="EditorLineStart" />
+      <action id="EditorTab" />
+      <action id="EditorTab" />
+      <action id="EditorTab" />
+      <action id="EditorDown" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
