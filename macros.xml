@@ -1,14 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;83:0;84:0;65:0;84:0;73:0;67:0;32:0;70:0;71:0;73:0;78:0;65:0">&amp;#x20;static&amp;#x20;fgina</typing>
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="73:0;78:0;65:0;76:0">inal</typing>
+      <action id="EditorLineEnd" />
+      <action id="EditorDeleteToWordEnd" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
