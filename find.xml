@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*-taskdef.json" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -26,5 +26,6 @@
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>*.json</mask>
+    <mask>*-taskdef.json</mask>
   </component>
 </application>
