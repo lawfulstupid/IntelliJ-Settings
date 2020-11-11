@@ -1,9 +1,17 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineEnd" />
       <action id="EditorLineStart" />
-      <typing text-keycode="77:1;79:0;67:0;75:0;73:0;84:0;79:0;46:0">Mockito.</typing>
-      <action id="EditorEscape" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <typing text-keycode="67:0;79:0;78:0;86:0;69:0;82:0;84:0;67:1;69:0;76:0;76:0;46:0">convertCell.</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="57:1;82:0;79:0;87:0;46:0;71:0;69:0;84:0;57:1">(row.get(</typing>
+      <action id="EditorPaste" />
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
