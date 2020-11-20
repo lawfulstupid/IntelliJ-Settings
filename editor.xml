@@ -24,7 +24,7 @@
     <pattern pattern="\btodo\b.*" />
     <pattern pattern="\bfixme\b.*" />
     <pattern icon="important" case-sensitive="true" pattern="\bNB." />
-    <pattern icon="important" pattern="\bnew[^\s]" />
+    <pattern icon="important" pattern="\bnew[^\s\w]" />
     <pattern useCustomColors="true" pattern="`[^`]*`">
       <option name="FOREGROUND" value="91774b" />
       <option name="FONT_TYPE" value="3" />
@@ -39,8 +39,8 @@
       <pattern index="0" />
     </filter>
     <filter name="My Tickets">
-      <pattern index="7" />
       <pattern index="6" />
+      <pattern index="7" />
     </filter>
   </component>
 </application>
