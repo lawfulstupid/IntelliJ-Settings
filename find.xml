@@ -7,7 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.scss" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -22,8 +22,8 @@
     <mask>*-taskdef.json</mask>
     <mask>*.sql</mask>
     <mask>*.html</mask>
-    <mask>*.java</mask>
     <mask>*.ts</mask>
     <mask>*.scss</mask>
+    <mask>*.java</mask>
   </component>
 </application>
