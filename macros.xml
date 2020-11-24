@@ -2,10 +2,21 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <typing text-keycode="82:0;69:0;84:0;85:0;82:0;78:0">return</typing>
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWordWithSelection" />
+      <action id="EditorCopy" />
+      <action id="EditorLeft" />
+      <typing text-keycode="80:0;65:0;67:0;69:0;50:0">pace2</typing>
+      <action id="EditorBackSpace" />
+      <typing text-keycode="46:0">.</typing>
+      <action id="EditorLineStart" />
+      <typing text-keycode="73:0;78:0;83:0;69:0;82:0;84:0;32:0;73:0;78:0;84:0;79:0;32:0;80:0;65:0;67:0;69:0;50:0;46:0">insert&amp;#x20;into&amp;#x20;pace2.</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+      <action id="EditorDown" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
