@@ -1,6 +1,20 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;" />
+    <macro name="&lt;noname&gt;">
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="MoveLineUp" />
+      <action id="EditorTab" />
+      <action id="EditorTab" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
+    </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
       <typing text-keycode="44:0">,</typing>
