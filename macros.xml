@@ -1,6 +1,19 @@
 <application>
   <component name="ActionMacroManager">
-    <macro name="&lt;noname&gt;" />
+    <macro name="&lt;noname&gt;">
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDelete" />
+      <typing text-keycode="50:0">2</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+    </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
       <typing text-keycode="44:0">,</typing>
