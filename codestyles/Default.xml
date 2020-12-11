@@ -1,6 +1,6 @@
 <code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
-  <MySQLCodeStyleSettings version="2">
+  <MySQLCodeStyleSettings version="5">
     <option name="DISABLE_FORMATTING" value="true" />
     <option name="QUERY_SECTION_1ST_WORD_ALIGN" value="0" />
     <option name="QUERY_EL_LINE" value="101" />
