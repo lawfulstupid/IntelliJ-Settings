@@ -31,15 +31,15 @@
     </pattern>
     <pattern pattern="\bdebug\b.?" />
     <pattern pattern="\bASB\b.?" />
-    <pattern pattern="\bHP-(2897|2880|2882|2886|2962)\b" />
+    <pattern pattern="\bHP-4501\b" />
     <filter name="TODO">
       <pattern index="1" />
       <pattern index="5" />
       <pattern index="0" />
     </filter>
     <filter name="My Tickets">
-      <pattern index="5" />
       <pattern index="6" />
+      <pattern index="5" />
     </filter>
   </component>
 </application>
