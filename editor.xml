@@ -31,12 +31,14 @@
     </pattern>
     <pattern pattern="\bdebug\b.?" />
     <pattern pattern="\bASB\b.?" />
+    <pattern pattern="HP-(4416|4516)" />
     <filter name="TODO">
       <pattern index="1" />
       <pattern index="5" />
       <pattern index="0" />
     </filter>
     <filter name="My Tickets">
+      <pattern index="6" />
       <pattern index="5" />
     </filter>
   </component>
