@@ -45,5 +45,14 @@
         <property name="serverTimezone" value="BST" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="DIARY_OPT" uuid="d6aabb13-682c-49d5-be29-9827600148dd">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pace3</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="BST" />
+      </driver-properties>
+    </data-source>
   </component>
 </application>
