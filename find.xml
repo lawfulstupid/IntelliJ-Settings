@@ -18,12 +18,12 @@
     <mask>*.spec.ts</mask>
     <mask>*.json</mask>
     <mask>*-taskdef.json</mask>
-    <mask>*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
