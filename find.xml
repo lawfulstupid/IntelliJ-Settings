@@ -1,13 +1,13 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Default Changelist" />
-    <option name="defaultScopeName" value="Default Changelist" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.ts" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -19,12 +19,12 @@
     <mask>*.spec.ts</mask>
     <mask>*.json</mask>
     <mask>*-taskdef.json</mask>
-    <mask>*.html</mask>
     <mask>pom.xml</mask>
-    <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
     <mask>*.scss</mask>
     <mask>*.xml</mask>
+    <mask>*.html</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
