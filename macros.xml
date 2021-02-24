@@ -2,13 +2,10 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorNextWord" />
+      <action id="EditorEnter" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
       <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorDeleteToWordEnd" />
-      <typing text-keycode="72:1;80:1;45:0;53:0;48:0;49:0;53:0">HP-5015</typing>
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
