@@ -1,27 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <typing text-keycode="67:0;76:0;79:0;83:0;69:0;68:1;73:0;65:0;76:0;79:0;71:0;57:1">closeDialog(</typing>
       <action id="EditorDeleteToWordEnd" />
       <action id="EditorDeleteToWordEnd" />
       <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="EditorDelete" />
       <action id="EditorNextWord" />
       <action id="EditorLineEndWithSelection" />
-      <typing text-keycode="48:1;59:0">);</typing>
+      <action id="EditorBackSpace" />
+      <action id="EditorLineStart" />
+      <typing text-keycode="222:0">'</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="222:0;44:0">',</typing>
       <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
-      <action id="EditorDown" />
+      <action id="EditorLineStart" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
