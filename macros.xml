@@ -1,16 +1,20 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="32:0;73:1;71:1;78:1;79:1;82:1;69:1">&amp;#x20;IGNORE</typing>
+      <action id="EditorLineStart" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="46:0;83:0;84:0;65:0;84:0;85:0;83:0;57:1;84:1;79:1;45:1;68:1;79:1">.status(TO_DO</typing>
       <action id="EditorEscape" />
       <action id="EditorDown" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
