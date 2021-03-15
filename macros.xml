@@ -1,19 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="46:0;83:0;84:0;65:0;84:0;85:0;83:0;57:1;84:1;79:1;45:1;68:1;79:1">.status(TO_DO</typing>
-      <action id="EditorEscape" />
+      <action id="EditorLineEnd" />
+      <action id="EditorBackSpace" />
+      <typing text-keycode="32:0;85:0;78:0;73:0;79:0;78:0">&amp;#x20;union</typing>
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
