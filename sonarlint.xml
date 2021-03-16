@@ -20,6 +20,7 @@
       <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="squid:S5411" />
       <Rule active="false" key="squid:S1135" />
+      <Rule active="false" key="java:S899" />
       <Rule active="false" key="squid:S00120" />
       <Rule active="false" key="java:S5961" />
       <Rule active="false" key="squid:S3252" />
@@ -33,6 +34,7 @@
       <Rule active="false" key="java:S1123" />
       <Rule active="false" key="squid:S1700" />
       <Rule active="false" key="squid:S1186" />
+      <Rule active="false" key="java:S4042" />
       <Rule active="false" key="squid:S00115" />
       <Rule active="false" key="squid:S2699" />
       <Rule active="false" key="Web:S5264" />
