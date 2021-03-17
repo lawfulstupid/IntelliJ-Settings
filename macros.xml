@@ -1,9 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <typing text-keycode="222:0">'</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="32:0;85:0;78:0;73:0;79:0;78:0">&amp;#x20;union</typing>
+      <typing text-keycode="222:0;44:0">',</typing>
       <action id="EditorDown" />
     </macro>
     <macro name="column to list">
