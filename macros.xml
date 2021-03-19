@@ -1,15 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="68:0;69:0;59:0;69:0;84:0">de;et</typing>
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="76:0;69:0;84:0;69:0;32:0;70:0;82:0;79:0;77:0;32:0">lete&amp;#x20;from&amp;#x20;</typing>
+      <typing text-keycode="68:0;69:0;76:0;69:0;84:0;69:0;32:0;70:0;82:0;79:0;77:0;32:0">delete&amp;#x20;from&amp;#x20;</typing>
       <action id="EditorLineEnd" />
       <typing text-keycode="59:0">;</typing>
-      <action id="EditorDown" />
       <action id="EditorLineStart" />
+      <action id="EditorDown" />
     </macro>
     <macro name="column to list">
       <action id="EditorLineEnd" />
