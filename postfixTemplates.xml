@@ -1,8 +1,0 @@
-<application>
-  <component name="PostfixTemplates">
-    <template id="inu@userDefined" key=".inu" provider="builtin.ts" topmost="false">
-      <conditions />
-      <template name="fakeKey" value="isNullOrUndefined($EXPR$)" toReformat="true" toShortenFQNames="true" />
-    </template>
-  </component>
-</application>
