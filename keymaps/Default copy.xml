@@ -54,6 +54,8 @@
     <keyboard-shortcut first-keystroke="ctrl alt d" />
   </action>
   <action id="Console.TableResult.CompareCells" />
+  <action id="Console.TableResult.NextPage" />
+  <action id="Console.TableResult.PreviousPage" />
   <action id="Console.TableResult.SetDefault" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowSettingsPopup" />
@@ -90,9 +92,11 @@
   <action id="MoveStatementUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
+  <action id="NextOccurence" />
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="PreviousOccurence" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
@@ -105,6 +109,12 @@
   <action id="TagDocumentationNavigation" />
   <action id="Uml.ShowDiff" />
   <action id="UpdateRunningApplication" />
+  <action id="VcsShowNextChangeMarker">
+    <keyboard-shortcut first-keystroke="ctrl alt down" />
+  </action>
+  <action id="VcsShowPrevChangeMarker">
+    <keyboard-shortcut first-keystroke="ctrl alt up" />
+  </action>
   <action id="android.deploy.ApplyChanges">
     <keyboard-shortcut first-keystroke="ctrl f10" />
   </action>
