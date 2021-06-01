@@ -59,6 +59,9 @@
   <action id="Console.TableResult.SetDefault" />
   <action id="DecrementWindowHeight" />
   <action id="Diff.ShowSettingsPopup" />
+  <action id="EditCommitMessage">
+    <keyboard-shortcut first-keystroke="f2" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
