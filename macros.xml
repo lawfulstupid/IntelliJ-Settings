@@ -1,10 +1,32 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <typing text-keycode="69:0;82:0;82:0;79:0;82:0;77:1;83:0;71:0;32:0;61:0;32:0">errorMsg&amp;#x20;=&amp;#x20;</typing>
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
       <action id="EditorDelete" />
-      <action id="EditorNextWord" />
-      <action id="EditorDelete" />
-      <action id="EditorRight" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLeft" />
+      <action id="EditorBackSpace" />
+      <action id="EditorBackSpace" />
+      <action id="EditorDown" />
+      <action id="EditorDown" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
