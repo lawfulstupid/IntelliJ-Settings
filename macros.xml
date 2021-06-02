@@ -1,8 +1,10 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="$SelectAll" />
-      <action id="Console.Jdbc.Execute" />
+      <action id="EditorDelete" />
+      <action id="EditorNextWord" />
+      <action id="EditorDelete" />
+      <action id="EditorRight" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
