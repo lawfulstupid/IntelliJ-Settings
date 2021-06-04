@@ -43,6 +43,7 @@
   <action id="Annotate">
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
+  <action id="CallHierarchy" />
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -104,6 +105,7 @@
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
+  <action id="PopupHector" />
   <action id="PreviousOccurence" />
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
@@ -125,6 +127,12 @@
   <action id="TypeHierarchyBase.BaseOnThisType" />
   <action id="Uml.ShowDiff" />
   <action id="UpdateRunningApplication" />
+  <action id="Vcs.ShowHistoryForBlock">
+    <keyboard-shortcut first-keystroke="shift ctrl alt h" />
+  </action>
+  <action id="Vcs.ShowTabbedFileHistory">
+    <keyboard-shortcut first-keystroke="ctrl alt h" />
+  </action>
   <action id="VcsShowNextChangeMarker">
     <keyboard-shortcut first-keystroke="ctrl alt down" />
   </action>
