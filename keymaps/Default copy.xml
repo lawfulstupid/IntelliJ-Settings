@@ -44,6 +44,11 @@
     <keyboard-shortcut first-keystroke="ctrl number_sign" />
   </action>
   <action id="CallHierarchy" />
+  <action id="CloseActiveTab" />
+  <action id="CloseContent">
+    <keyboard-shortcut first-keystroke="ctrl f4" />
+    <keyboard-shortcut first-keystroke="ctrl w" />
+  </action>
   <action id="CommentByBlockComment">
     <keyboard-shortcut first-keystroke="shift ctrl slash" />
     <keyboard-shortcut first-keystroke="shift ctrl divide" />
@@ -87,12 +92,14 @@
   <action id="EditorResetFontSize">
     <keyboard-shortcut first-keystroke="ctrl 0" />
   </action>
+  <action id="EditorSelectWord" />
   <action id="GotoBookmark0" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
   <action id="Images.Editor.ToggleGrid" />
   <action id="IncrementWindowHeight" />
+  <action id="Kotlin.RunScratch" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -116,12 +123,14 @@
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="SmartSelect" />
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl q" />
   </action>
   <action id="SynchronizeCurrentFile">
     <keyboard-shortcut first-keystroke="ctrl r" />
   </action>
+  <action id="TableResult.GrowSelection" />
   <action id="TagDocumentationNavigation" />
   <action id="TypeHierarchy" />
   <action id="TypeHierarchyBase.BaseOnThisType" />
