@@ -1,10 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Source Code" />
-    <option name="defaultScopeName" value="Source Code" />
+    <option name="customScope" value="pom" />
+    <option name="defaultScopeName" value="pom" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="SEARCH_SCOPE" value="pom" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -23,7 +24,7 @@
     <mask>*-taskdef.json</mask>
     <mask>*.json</mask>
     <mask>*.ts</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
