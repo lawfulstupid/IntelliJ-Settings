@@ -7,17 +7,17 @@
       <Rule active="false" key="java:S1133" />
       <Rule active="false" key="java:S1130" />
       <Rule active="false" key="squid:S1854" />
-      <Rule active="false" key="Web:ImgWithoutAltCheck" />
       <Rule active="false" key="Web:TableWithoutCaptionCheck" />
+      <Rule active="false" key="Web:ImgWithoutAltCheck" />
       <Rule active="false" key="squid:S00108" />
       <Rule active="false" key="java:S112" />
       <Rule active="false" key="squid:S00107" />
       <Rule active="false" key="squid:S2187" />
       <Rule active="false" key="Web:FieldsetWithoutLegendCheck" />
-      <Rule key="squid:S1698" />
       <Rule active="false" key="squid:S2864" />
-      <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="squid:S3776" />
+      <Rule key="squid:S1698" />
+      <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="squid:S5411" />
       <Rule active="false" key="squid:S1135" />
@@ -28,22 +28,21 @@
       <Rule active="false" key="squid:HiddenFieldCheck" />
       <Rule active="false" key="java:S1602" />
       <Rule active="false" key="squid:S1192" />
-      <Rule active="false" key="java:S3864" />
       <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="java:S3864" />
       <Rule active="false" key="java:S1149" />
-      <Rule active="false" key="java:S1125" />
       <Rule active="false" key="java:S2119" />
       <Rule active="false" key="java:S1123" />
       <Rule active="false" key="squid:S1700" />
       <Rule active="false" key="squid:S1186" />
-      <Rule active="false" key="java:S4042" />
       <Rule active="false" key="squid:S00115" />
+      <Rule active="false" key="java:S4042" />
       <Rule active="false" key="squid:S2699" />
       <Rule active="false" key="Web:S5264" />
       <Rule active="false" key="squid:S2696" />
       <Rule active="false" key="squid:S1168" />
-      <Rule active="false" key="java:S4144" />
       <Rule active="false" key="java:S128" />
+      <Rule active="false" key="java:S4144" />
       <Rule active="false" key="java:S1659" />
       <Rule active="false" key="squid:S4274" />
       <Rule active="false" key="java:S3457" />
