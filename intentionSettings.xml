@@ -1,5 +1,6 @@
 <application>
   <component name="IntentionManagerSettings">
     <ignoreAction name="Language injection/Inject language or reference" />
+    <ignoreAction name="Java/Control Flow/Merge nested 'if' statements" />
   </component>
 </application>
