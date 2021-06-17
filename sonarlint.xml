@@ -32,6 +32,7 @@
       <Rule active="false" key="java:S1128" />
       <Rule active="false" key="squid:S1192" />
       <Rule active="false" key="java:S1149" />
+      <Rule active="false" key="java:S2139" />
       <Rule active="false" key="java:S2119" />
       <Rule active="false" key="java:S1123" />
       <Rule active="false" key="squid:S1700" />
