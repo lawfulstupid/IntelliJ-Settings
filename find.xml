@@ -2,10 +2,8 @@
   <component name="FindSettings">
     <option name="customScope" value="Default Changelist" />
     <option name="defaultScopeName" value="Default Changelist" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Default Changelist" />
-    <option name="FILE_MASK" value="*.java" />
+    <option name="FILE_MASK" value="*.sql" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -15,7 +13,6 @@
     <mask>*.css</mask>
     <mask>*.*css</mask>
     <mask>pom.xml</mask>
-    <mask>*.sql</mask>
     <mask>*scss</mask>
     <mask>*ts</mask>
     <mask>*.scss</mask>
@@ -27,5 +24,6 @@
     <mask>*.service.ts</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
