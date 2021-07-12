@@ -13,8 +13,9 @@
       <Rule active="false" key="Web:BoldAndItalicTagsCheck" />
       <Rule active="false" key="squid:S3252" />
       <Rule active="false" key="java:S1602" />
-      <Rule active="false" key="squid:S1192" />
       <Rule active="false" key="java:S1128" />
+      <Rule active="false" key="squid:S1192" />
+      <Rule active="false" key="java:S1125" />
       <Rule active="false" key="java:S2119" />
       <Rule active="false" key="java:S1123" />
       <Rule active="false" key="squid:S00115" />
@@ -28,11 +29,11 @@
       <Rule active="false" key="java:S5838" />
       <Rule active="false" key="java:S1155" />
       <Rule active="false" key="squid:S1854" />
-      <Rule active="false" key="Web:TableWithoutCaptionCheck" />
       <Rule active="false" key="Web:ImgWithoutAltCheck" />
+      <Rule active="false" key="Web:TableWithoutCaptionCheck" />
       <Rule active="false" key="squid:S2187" />
-      <Rule key="squid:S1698" />
       <Rule active="false" key="squid:S2864" />
+      <Rule key="squid:S1698" />
       <Rule active="false" key="Web:S5256" />
       <Rule active="false" key="squid:S5411" />
       <Rule active="false" key="squid:S1135" />
