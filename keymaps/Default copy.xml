@@ -94,6 +94,7 @@
   </action>
   <action id="EditorSelectWord" />
   <action id="GotoBookmark0" />
+  <action id="GotoTest" />
   <action id="GuiDesigner.QuickJavadoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
@@ -117,12 +118,17 @@
   <action id="QuickJavaDoc">
     <mouse-shortcut keystroke="alt button2" />
   </action>
+  <action id="ReopenClosedTab">
+    <keyboard-shortcut first-keystroke="shift ctrl t" />
+  </action>
   <action id="Replace">
     <keyboard-shortcut first-keystroke="ctrl h" />
   </action>
   <action id="ResetColumnsWidth" />
   <action id="ResizeToolWindowDown" />
   <action id="ResizeToolWindowUp" />
+  <action id="ResourceExplorer.show" />
+  <action id="ServiceView.ShowServices" />
   <action id="SmartSelect" />
   <action id="StartStopMacroRecording">
     <keyboard-shortcut first-keystroke="ctrl q" />
