@@ -101,6 +101,7 @@
   <action id="Images.Editor.ToggleGrid" />
   <action id="IncrementWindowHeight" />
   <action id="Kotlin.RunScratch" />
+  <action id="MaximizeToolWindow" />
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="shift ctrl down" />
   </action>
@@ -110,6 +111,9 @@
   <action id="MoveStatementDown" />
   <action id="MoveStatementUp" />
   <action id="NextOccurence" />
+  <action id="PlaySavedMacrosAction">
+    <keyboard-shortcut first-keystroke="shift ctrl quote" />
+  </action>
   <action id="PlaybackLastMacro">
     <keyboard-shortcut first-keystroke="ctrl quote" />
   </action>
