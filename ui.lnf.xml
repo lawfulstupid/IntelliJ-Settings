@@ -1,4 +1,7 @@
 <application>
+  <component name="DependencyUISettings">
+    <option name="UI_FLATTEN_PACKAGES" value="false" />
+  </component>
   <component name="UISettings">
     <option name="EDITOR_TAB_LIMIT" value="100" />
     <option name="EDITOR_TAB_PLACEMENT" value="2" />
