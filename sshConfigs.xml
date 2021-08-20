@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="localhost" id="d6e78eb5-148a-4dd2-a500-938f15da5114" port="13306" nameFormat="DESCRIPTIVE" username="paceappprod" />
+    </configs>
+  </component>
+</application>
