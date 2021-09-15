@@ -9,6 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="FILE_MASK" value="*.json" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -20,7 +21,6 @@
     <mask>*ts</mask>
     <mask>*.spec.ts</mask>
     <mask>*-taskdef.json</mask>
-    <mask>*.json</mask>
     <mask>*.service.ts</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
@@ -30,5 +30,6 @@
     <mask>*.yaml</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
+    <mask>*.json</mask>
   </component>
 </application>
