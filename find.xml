@@ -9,7 +9,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
-    <option name="FILE_MASK" value="*.json" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -24,12 +24,12 @@
     <mask>*.service.ts</mask>
     <mask>*.xml</mask>
     <mask>*.sql</mask>
-    <mask>*.scss</mask>
     <mask>pom.xml</mask>
     <mask>*.html</mask>
     <mask>*.yaml</mask>
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.json</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
