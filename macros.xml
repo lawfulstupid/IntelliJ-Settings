@@ -2,18 +2,25 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
-      <typing text-keycode="32:0">&amp;#x20;</typing>
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
       <action id="EditorEnter" />
+      <typing text-keycode="44:1;78:0;71:0;45:0;67:0;79:0;78:0;84:0;65:0;73:0;78:0;69:0;82:0;32:0;56:1;78:0;71:0;73:1;70:0;61:0;77:0;69:0;67:0;72:0;73:1;68:0;88:0;32:0;61:0;61:0;61:0;32:0;48:0">&lt;ng-container&amp;#x20;*ngIf=mechIdx&amp;#x20;===&amp;#x20;0</typing>
+      <action id="EditorRight" />
+      <typing text-keycode="46:1">&gt;</typing>
+      <action id="EditorLineEndWithSelection" />
+      <action id="EditorBackSpace" />
+      <action id="EditorUp" />
+      <action id="EditorLineStart" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorMatchBrace" />
+      <action id="EditorMatchBrace" />
+      <action id="EditorUp" />
       <action id="EditorLineEnd" />
-      <action id="EditorLeft" />
-      <action id="EditorLeft" />
       <action id="EditorEnter" />
+      <typing text-keycode="44:1;47:0">&lt;/</typing>
+      <action id="EditorUp" />
+      <action id="EditorLineStart" />
+      <action id="EditorTab" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
