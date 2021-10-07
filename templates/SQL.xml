@@ -1,0 +1,8 @@
+<templateSet group="SQL">
+  <template name="sfw" value="select * from $table$ where $END$;" description="select from where" toReformat="true" toShortenFQNames="false">
+    <variable name="table" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="SQL" value="true" />
+    </context>
+  </template>
+</templateSet>
