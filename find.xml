@@ -7,6 +7,7 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Files" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -26,7 +27,7 @@
     <mask>*.json</mask>
     <mask>*.scss</mask>
     <mask>*.ts</mask>
-    <mask>*.html</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>

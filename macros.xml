@@ -3,17 +3,11 @@
     <macro name="&lt;noname&gt;">
       <action id="EditorLineEnd" />
       <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
+      <typing text-keycode="44:1;76:0;65:0;66:0;69:0;76:0;32:0;91:0;84:0;69:0;88:0;84:0;93:0;61:0">&lt;label&amp;#x20;[text]=</typing>
       <action id="EditorDelete" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <typing text-keycode="44:1">&lt;</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="46:1;91:1">&gt;{</typing>
+      <typing text-keycode="222:0">'</typing>
       <action id="EditorLineEnd" />
-      <action id="EditorBackSpace" />
-      <typing text-keycode="44:0">,</typing>
-      <action id="EditorDown" />
+      <typing text-keycode="222:0;50:1;46:1">'&quot;&gt;</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
