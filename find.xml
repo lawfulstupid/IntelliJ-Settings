@@ -1,11 +1,11 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
+    <option name="customScope" value="Source Code" />
+    <option name="defaultScopeName" value="Source Code" />
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.xml" />
+    <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.properties</mask>
@@ -22,10 +22,10 @@
     <mask>*.yaml</mask>
     <mask>*.json</mask>
     <mask>*.scss</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>pom.xml</mask>
     <mask>*.ts</mask>
     <mask>*.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
