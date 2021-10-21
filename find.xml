@@ -7,9 +7,9 @@
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="FILE_MASK" value="*.properties" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
-    <mask>*.properties</mask>
     <mask>*.p*</mask>
     <mask>*.component.html</mask>
     <mask>*.css</mask>
@@ -28,5 +28,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.properties</mask>
   </component>
 </application>
