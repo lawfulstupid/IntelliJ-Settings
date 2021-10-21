@@ -2,9 +2,9 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <typing text-keycode="57:1">(</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="32:0;65:0;83:0;32:0;65:0;78:0;89:0;48:1">&amp;#x20;as&amp;#x20;any)</typing>
+      <typing text-keycode="222:0;65:1">'A</typing>
+      <action id="EditorLineEnd" />
+      <typing text-keycode="222:0;44:0">',</typing>
       <action id="EditorDown" />
     </macro>
     <macro name="mock">
