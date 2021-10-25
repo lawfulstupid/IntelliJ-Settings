@@ -2,10 +2,17 @@
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
       <action id="EditorLineStart" />
-      <typing text-keycode="222:0;65:1">'A</typing>
+      <typing text-keycode="222:1;77:1;79:0;67:0;75:0;66:1;69:0;65:0;78:0">@MockBean</typing>
+      <action id="EditorChooseLookupItem" />
+      <action id="EditorEnter" />
       <action id="EditorLineEnd" />
-      <typing text-keycode="222:0;44:0">',</typing>
-      <action id="EditorDown" />
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+      <action id="EditorPaste" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorPreviousWord" />
+      <action id="EditorPreviousWord" />
+      <action id="EditorRightWithSelection" />
+      <typing text-keycode="67:0;192:0">c`</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
@@ -38,6 +45,19 @@
       <action id="EditorBackSpace" />
       <typing text-keycode="44:0;32:0;47:0;47:0;32:0;84:1;79:1;68:1;79:1">,&amp;#x20;//&amp;#x20;TODO</typing>
       <action id="EditorDown" />
+    </macro>
+    <macro name="mockbean">
+      <typing text-keycode="32:0">&amp;#x20;</typing>
+      <action id="CodeCompletion" />
+      <action id="EditorChooseLookupItem" />
+      <typing text-keycode="59:0">;</typing>
+      <action id="EditorLineStart" />
+      <action id="EditorEnter" />
+      <action id="EditorUp" />
+      <typing text-keycode="222:1;77:1;79:0;67:0;75:0;66:1;69:0;65:0;78:0">@MockBean</typing>
+      <action id="EditorEscape" />
+      <action id="EditorDown" />
+      <action id="EditorLineEnd" />
     </macro>
   </component>
 </application>
