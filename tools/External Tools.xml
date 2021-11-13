@@ -8,8 +8,8 @@
   </tool>
   <tool name="Delay" showInMainMenu="false" showInEditor="false" showInProject="false" showInSearchPopup="false" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
     <exec>
-      <option name="COMMAND" value="C:\Users\alex.bradley\cmd-utils\delay.bat" />
-      <option name="PARAMETERS" value="3" />
+      <option name="COMMAND" value="choice" />
+      <option name="PARAMETERS" value="/c ¬ /d ¬ /t 3 /n &gt;nul" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
