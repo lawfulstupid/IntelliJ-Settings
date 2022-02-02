@@ -1,8 +1,7 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
-      <action id="EditorDown" />
+      <action id="EditorNextWordWithSelection" />
       <action id="EditorPaste" />
     </macro>
     <macro name="mock">
