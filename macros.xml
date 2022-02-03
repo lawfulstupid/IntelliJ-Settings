@@ -1,8 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorPaste" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="45:1;85:1;65:1;84:1">_UAT</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
