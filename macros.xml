@@ -1,10 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDown" />
-      <action id="EditorLineEnd" />
-      <action id="EditorUpWithSelection" />
-      <action id="EditorUpWithSelection" />
+      <action id="EditorUp" />
+      <action id="EditorUp" />
       <action id="EditorPaste" />
     </macro>
     <macro name="mock">
