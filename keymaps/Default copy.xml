@@ -71,6 +71,9 @@
   <action id="EditCommitMessage">
     <keyboard-shortcut first-keystroke="f2" />
   </action>
+  <action id="EditMacros">
+    <keyboard-shortcut first-keystroke="ctrl alt quote" />
+  </action>
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
