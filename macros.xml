@@ -1,7 +1,9 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorPreviousWord" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <typing text-keycode="82:1">R</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
