@@ -3,7 +3,7 @@
     <option name="customScope" value="Source Code" />
     <option name="defaultScopeName" value="Source Code" />
     <option name="SEARCH_SCOPE" value="Source Code" />
-    <option name="FILE_MASK" value="*.ftl" />
+    <option name="FILE_MASK" value="*.xml" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.p*</mask>
@@ -15,7 +15,6 @@
     <mask>*.spec.ts</mask>
     <mask>*.service.ts</mask>
     <mask>*.yaml</mask>
-    <mask>*.xml</mask>
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*java</mask>
@@ -28,5 +27,6 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.ftl</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
