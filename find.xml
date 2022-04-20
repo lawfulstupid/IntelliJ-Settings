@@ -5,6 +5,7 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="FILE_MASK" value="*-taskdef.json" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.p*</mask>
@@ -21,7 +22,6 @@
     <mask>*java</mask>
     <mask>*.scss</mask>
     <mask>*</mask>
-    <mask>*-taskdef.json</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
     <mask>*.ts</mask>
@@ -29,5 +29,6 @@
     <mask>*.xml</mask>
     <mask>pom.xml</mask>
     <mask>*.java</mask>
+    <mask>*-taskdef.json</mask>
   </component>
 </application>
