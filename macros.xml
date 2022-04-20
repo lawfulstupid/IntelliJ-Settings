@@ -1,23 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineStart" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorRight" />
-      <typing text-keycode="69:0;81:0;57:1">eq(</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
       <action id="EditorRight" />
       <action id="EditorRight" />
-      <typing text-keycode="69:0;81:0;57:1">eq(</typing>
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorRight" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorPaste" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
