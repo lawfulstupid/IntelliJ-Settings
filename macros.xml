@@ -7,9 +7,8 @@
       <action id="EditorRight" />
       <action id="EditorRight" />
       <action id="EditorRight" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
-      <action id="EditorNextWordWithSelection" />
+      <action id="EditorNextWord" />
+      <action id="EditorPreviousWordWithSelection" />
       <action id="EditorPaste" />
     </macro>
     <macro name="mock">
