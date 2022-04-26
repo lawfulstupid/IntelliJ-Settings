@@ -1,10 +1,13 @@
 <application>
   <component name="FindSettings">
+    <option name="caseSensitive" value="true" />
     <option name="customScope" value="Source Code" />
     <option name="defaultScopeName" value="Source Code" />
     <option name="localRegularExpressions" value="true" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="FILE_MASK" value="*.java" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.p*</mask>
@@ -26,8 +29,8 @@
     <mask>*.ts</mask>
     <mask>*.ftl</mask>
     <mask>*.xml</mask>
-    <mask>*.java</mask>
     <mask>*-taskdef.json</mask>
     <mask>pom.xml</mask>
+    <mask>*.java</mask>
   </component>
 </application>
