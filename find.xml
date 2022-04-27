@@ -3,9 +3,11 @@
     <option name="customScope" value="Source Code" />
     <option name="defaultScopeName" value="Source Code" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
-    <option name="FILE_MASK" value="*.ts" />
+    <option name="FILE_MASK" value="*.scss" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.p*</mask>
@@ -20,7 +22,6 @@
     <mask>*.properties</mask>
     <mask>*.sql</mask>
     <mask>*java</mask>
-    <mask>*.scss</mask>
     <mask>*</mask>
     <mask>*.json</mask>
     <mask>*.html</mask>
@@ -30,5 +31,6 @@
     <mask>pom.xml</mask>
     <mask>*.java</mask>
     <mask>*.ts</mask>
+    <mask>*.scss</mask>
   </component>
 </application>
