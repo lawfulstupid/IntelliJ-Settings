@@ -1,15 +1,14 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
-      <action id="EditorRight" />
       <action id="EditorNextWord" />
-      <action id="EditorPreviousWordWithSelection" />
-      <action id="EditorPaste" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorNextWord" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <action id="EditorDeleteToWordEnd" />
+      <typing text-keycode="65:1;76:1;80:1;72:1;65:1;45:0;79:1;78:1;69:1">ALPHA-ONE</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
