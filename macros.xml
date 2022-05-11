@@ -1,11 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="222:1;77:1;79:0;67:0;75:0;66:1;69:0;65:0;78:0">@MockBean</typing>
-      <action id="EditorEscape" />
+      <action id="EditorLineEnd" />
+      <action id="EditorLineStartWithSelection" />
+      <action id="EditorPaste" />
       <action id="EditorEnter" />
       <action id="EditorDown" />
-      <action id="EditorEnter" />
+      <action id="Console.Jdbc.Execute" />
+      <shortuct text="ENTER" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
