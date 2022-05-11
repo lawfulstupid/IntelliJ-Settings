@@ -1,13 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorLineEnd" />
-      <action id="EditorLineStartWithSelection" />
-      <action id="EditorPaste" />
-      <action id="EditorEnter" />
-      <action id="EditorDown" />
-      <action id="Console.Jdbc.Execute" />
-      <shortuct text="ENTER" />
+      <action id="EditorNextWord" />
+      <typing text-keycode="45:1;80:1;65:1;80:1;50:0">_PAP2</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
