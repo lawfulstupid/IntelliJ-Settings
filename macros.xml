@@ -1,9 +1,11 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDeleteToWordEnd" />
-      <action id="EditorDown" />
+      <typing text-keycode="69:0;81:0;57:1">eq(</typing>
+      <action id="EditorNextWord" />
+      <typing text-keycode="48:1">)</typing>
+      <action id="EditorRight" />
+      <action id="EditorRight" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
