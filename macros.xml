@@ -1,11 +1,19 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <typing text-keycode="69:0;81:0;57:1">eq(</typing>
-      <action id="EditorNextWord" />
-      <typing text-keycode="48:1">)</typing>
-      <action id="EditorRight" />
-      <action id="EditorRight" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <action id="EditorDelete" />
+      <typing text-keycode="222:0">'</typing>
+      <action id="EditorDown" />
+      <action id="EditorLeft" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
