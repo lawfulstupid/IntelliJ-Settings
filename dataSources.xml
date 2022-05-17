@@ -52,5 +52,11 @@
       <jdbc-url>jdbc:mysql://localhost:53306/pace</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="ZEN" uuid="f70392f4-177a-4159-8930-6db6a1588d9e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:63306/pace</jdbc-url>
+    </data-source>
   </component>
 </application>
