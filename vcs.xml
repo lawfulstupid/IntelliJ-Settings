@@ -27,7 +27,7 @@
     </option>
   </component>
   <component name="VcsApplicationSettings">
-    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/halfords/pace" />
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/halfords/pace/patch" />
     <option name="DETECT_PATCH_ON_THE_FLY" value="true" />
   </component>
   <component name="VcsEditorTab.Settings">
