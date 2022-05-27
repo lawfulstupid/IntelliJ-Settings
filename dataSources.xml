@@ -1,0 +1,62 @@
+<application>
+  <component name="dataSourceStorage" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DEV" uuid="1b8fe926-42d5-4f58-84e5-dfa4d2a018a5">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:43306/pace</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="LOCAL" uuid="ccc358ac-378a-48ee-8a63-caa0e5676a0e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pace</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="UAT" uuid="5f13453d-fe7d-42c2-a140-cc64b04a3412">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:23306/pace</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="SYSTEST" uuid="b02768c5-5b09-4442-aa3c-7d0049dbaaeb">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:33306/pace</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="PROD" uuid="de092099-c390-4952-9841-20eb2b9c1874">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:13306/pace</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="GMT" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="PAP2" uuid="1833376f-1f0c-4eba-a4b4-9f56ead2e927">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/pace_pap2</jdbc-url>
+      <driver-properties>
+        <property name="serverTimezone" value="BST" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="QA" uuid="232e6019-cb17-42f3-a654-1f9d207ebf70">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:53306/pace</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+    <data-source source="LOCAL" name="ZEN" uuid="f70392f4-177a-4159-8930-6db6a1588d9e">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:63306/pace</jdbc-url>
+    </data-source>
+  </component>
+</application>
