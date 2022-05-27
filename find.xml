@@ -5,6 +5,7 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="Source Code" />
+    <option name="FILE_MASK" value="*.html" />
     <mask>*.jsp</mask>
     <mask>*.hs</mask>
     <mask>*.p*</mask>
@@ -21,7 +22,6 @@
     <mask>*java</mask>
     <mask>*</mask>
     <mask>*.json</mask>
-    <mask>*.html</mask>
     <mask>*.ftl</mask>
     <mask>*-taskdef.json</mask>
     <mask>*.scss</mask>
@@ -30,5 +30,6 @@
     <mask>R*.sql</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.html</mask>
   </component>
 </application>
