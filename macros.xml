@@ -1,19 +1,13 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
+      <action id="EditorLineStart" />
+      <typing text-keycode="91:1;91:1">{{</typing>
       <action id="EditorDelete" />
       <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <action id="EditorDelete" />
-      <typing text-keycode="222:0">'</typing>
-      <action id="EditorDown" />
-      <action id="EditorLeft" />
+      <action id="EditorLineEnd" />
+      <typing text-keycode="93:1;93:1">}}</typing>
+      <action id="EditorBackSpace" />
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
