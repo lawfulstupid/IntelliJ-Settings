@@ -1,14 +1,8 @@
 <application>
   <component name="ActionMacroManager">
     <macro name="&lt;noname&gt;">
-      <action id="EditorEnter" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
-      <action id="EditorNextWord" />
+      <action id="EditorPreviousWord" />
+      <typing text-keycode="80:0;65:0;82:0;69:0;78:0;84:0;46:0">parent.</typing>
     </macro>
     <macro name="mock">
       <action id="EditorLineStart" />
